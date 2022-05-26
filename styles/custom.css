@@ -1,0 +1,22 @@
+/* Create two columns/boxes that floats next to each other */
+nav {
+  float: left;
+  width: 30%;
+  height: 681px; /* only for demonstration, should be removed */
+  padding: 20px;
+}
+
+
+article {
+  float: left;
+  padding: 20px;
+  width: 70%;
+  height: 681px; /* only for demonstration, should be removed */
+}
+
+#entah{
+      position: absolute;
+      width: 100%;
+      bottom: 0px;
+      text-align: center;
+  }
